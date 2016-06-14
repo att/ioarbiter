@@ -26,6 +26,10 @@ a storage node where you want to deploy IOArbiter-capable cinder service.
       
               sudo apt-get install mdadm
           
+  * Install docker.
+  
+              Current version is tested under docker version 1.8.2
+
   * Allowin IOArbiter source to use previleges operations: add two lines below to /etc/cinder/rootwrap.d/volume.filters
           
               mdadm: CommandFilter, mdadm, root
