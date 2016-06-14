@@ -11,8 +11,9 @@ implementation at volume creation time, which can significantly improve overall 
 
 * Improved space efficiency: inline deduplication/compression, thin-provisioning features will be collectively supported by other open source projects.
 
+If you are interested, please follow the [installation guide](INSTALL.md).
 
-<b>Changelog</b>
+### Changelog
 
 2016-06-06: created. 
 
