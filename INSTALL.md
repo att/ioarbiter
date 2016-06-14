@@ -1,4 +1,4 @@
-# Installation
+# Installation Guide
 
 This code is tested under OpenStack Kilo version and assume that there exists a valid Cinder installation.
 You need to install IOArbiter components onto both a controller node where a cinder scheduler instance is running and 
